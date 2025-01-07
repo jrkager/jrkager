@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm Johannes, a PhD Student in Mathematics at the TU Munich. I'm interested in Combinatorial Optimization and Algorithms and am currently working on robust mulit-objective combinatorial optimization.
+
 <!--
 **jrkager/jrkager** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
